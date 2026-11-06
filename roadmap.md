@@ -1,0 +1,3 @@
+- [ ] Replace the homepage placeholder with the complete CET marketing experience.
+- [ ] Add token-based styling, mobile navigation, dialogs, forms, pricing, and animations.
+- [ ] Run the pricing regression test and verify the page and interactions in preview.
