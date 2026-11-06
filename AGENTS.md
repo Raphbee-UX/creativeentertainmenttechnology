@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Keep the CET marketing experience on a single homepage with client-side interactions and shared design-system primitives, because the requested flows require no backend.
